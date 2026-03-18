@@ -1,15 +1,15 @@
 # 🔥 **AutoStrike**
 
 <div align="center">
-  <a href="https://github.com/AutoStrike-EIP/{{REPO_NAME}}">
+  <a href="https://github.com/AutoStrike-EIP/Proxy">
     <img width="100%" src="/docs/assets/Autostrike%20complet_Bannière.svg" alt="@AutoStrike's banner">
   </a>
   <br>
-  <a href="https://github.com/AutoStrike-EIP/{{REPO_NAME}}/issues">
-    <img src="https://img.shields.io/github/issues/AutoStrike-EIP/{{REPO_NAME}}?color=0088ff&style=for-the-badge&logo=github" alt="AutoStrike's issues"/>
+  <a href="https://github.com/AutoStrike-EIP/Proxy/issues">
+    <img src="https://img.shields.io/github/issues/AutoStrike-EIP/Proxy?color=0088ff&style=for-the-badge&logo=github" alt="AutoStrike's issues"/>
   </a>
-  <a href="https://github.com/AutoStrike-EIP/{{REPO_NAME}}/pulls">
-    <img src="https://img.shields.io/github/issues-pr/AutoStrike-EIP/{{REPO_NAME}}?color=0088ff&style=for-the-badge&logo=github"  alt="AutoStrike's pull requests"/>
+  <a href="https://github.com/AutoStrike-EIP/Proxy/pulls">
+    <img src="https://img.shields.io/github/issues-pr/AutoStrike-EIP/Proxy?color=0088ff&style=for-the-badge&logo=github"  alt="AutoStrike's pull requests"/>
   </a>
 </div>
 
@@ -62,7 +62,7 @@ You can find the project planning [here](https://github.com/orgs/AutoStrike-EIP/
 ## 🍰 **Supporters and contributors**
 
 <!-- Change your small logo -->
-<a href="https://github.com/AutoStrike-EIP/{{REPO_NAME}}">
+<a href="https://github.com/AutoStrike-EIP/Proxy">
   <img alt="@AutoStrike-EIP/AutoStrike's brand logo without text" align="right" src="/docs/assets/Autostrike%20complet_Logo.svg" width="18%" />
 </a>
 
@@ -87,9 +87,9 @@ By contributing, you will help the development of this project, and *you will be
 ## 🎉 Was the tool helpful? Help us raise these numbers up
 
 [![GitHub followers](https://img.shields.io/github/followers/AutoStrike-EIP.svg?style=social)](https://github.com/AutoStrike-EIP)
-[![GitHub stars](https://img.shields.io/github/stars/AutoStrike-EIP/{{REPO_NAME}}.svg?style=social)](https://github.com/AutoStrike-EIP/{{REPO_NAME}}/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/AutoStrike-EIP/{{REPO_NAME}}.svg?style=social)](https://github.com/AutoStrike-EIP/{{REPO_NAME}}/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/AutoStrike-EIP/{{REPO_NAME}}.svg?style=social)](https://github.com/AutoStrike-EIP/{{REPO_NAME}}/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/AutoStrike-EIP/Proxy.svg?style=social)](https://github.com/AutoStrike-EIP/Proxy/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/AutoStrike-EIP/Proxy.svg?style=social)](https://github.com/AutoStrike-EIP/Proxy/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/AutoStrike-EIP/Proxy.svg?style=social)](https://github.com/AutoStrike-EIP/Proxy/network/members)
 <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=github-sponsors&color=red&style=social)](https://github.com/sponsors/AutoStrike-EIP)
 
